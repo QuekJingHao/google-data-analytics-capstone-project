@@ -149,8 +149,9 @@ The dashboard has two views - an _Overall_ view:
 
 https://github.com/[QuekJingHao]/[google-data-analytics-capstone-project]/blob/[main]/4 Images/db_overall.png
 
-<img src="https://your-image-url.type" width="100" height="100">
-
+<center>
+<img src="https://github.com/QuekJingHao/google-data-analytics-capstone-project/tree/c26f37a44c63c39dbbccecc380c72427173e05b1/4%20Images" width="100" height="100">
+</center>
 
 as well as an _Analytics_ view:
 
