@@ -148,13 +148,13 @@ You can access the Dashboard using the following link: [Dashboard](https://looke
 The dashboard has two views - an _Overall_ view:
 
 <center>
-<img src="https://github.com/QuekJingHao/google-data-analytics-capstone-project/blob/main/4 Images/db_overall.png" width="1000" height="800">
+<img src="https://github.com/QuekJingHao/google-data-analytics-capstone-project/blob/main/4 Images/db_overall.png" width="800" height="600">
 </center>
 
 as well as an _Analytics_ view:
 
 <center>
-<img src="https://github.com/QuekJingHao/google-data-analytics-capstone-project/blob/main/4 Images/db_analytics.png" width="1000" height="800">
+<img src="https://github.com/QuekJingHao/google-data-analytics-capstone-project/blob/main/4 Images/db_analytics.png" width="800" height="600">
 </center>
 
 
